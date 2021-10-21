@@ -1,6 +1,7 @@
 def get_random_ingredients(kind=None):
     """
     Return a list of random ingredients as strings.
+    STO CAMBIANDO DELLE COSE
 
     :param kind: Optional "kind" of ingredients.
     :type kind: list[str] or None
