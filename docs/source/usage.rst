@@ -34,7 +34,7 @@ will raise an exception.
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
-To get a random number you can use ""Pseudo_triangle.ProbabilityDensityFunction()"":
+To get a random number you can use ``Pseudo_triangle.ProbabilityDensityFunction()``:
 
 .. autoclass:: Pseudo_triangle.ProbabilityDensityFunction
 
